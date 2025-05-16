@@ -18,7 +18,7 @@ policy ID.
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/nft-access-checker.git
+git clone https://github.com/4thechain/nft-access-checker.git
 cd nft-access-checker
 npm install
 cd frontend
